@@ -1,0 +1,24 @@
+.body{
+    text-align: center;
+}
+
+html{
+background-image:-webkit-linear-gradient(#f9d199,#fdd8b5,#f6e3d4,white,#bbdbf7,#92c4ee,#64abe3);
+border-top:20%;
+min-width: 1024px;
+min-height: 650px;
+align-items: center;
+background-repeat:no-repeat;
+
+}
+
+.h1
+{font-size:30px;
+text-align:center
+}
+.h2{
+font-size:20px;
+padding:100%;
+}
+.p{font-size:18px;
+}
